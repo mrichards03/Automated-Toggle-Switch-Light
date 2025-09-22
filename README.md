@@ -2,7 +2,7 @@
 
 I rent my place, so I didn’t want to cut into the walls or replace switches. But I still wanted to control my overhead light with Google Home. The overhead fixture is a built-in LED panel, so I couldn’t just swap the bulb for a smart one. Other smart options (like inline relays or smart wall switches) required electrical work I didn’t want to risk in a rental.
 
-So I built a removable, “servo-actuated switch presser “robot finger” that presses the light switch for me. It’s cheap, uses parts I already had, and can be removed without damage. I also added a DHT11 temperature and humidity sensor just for fun. It's not exactly pretty but it works!
+So I built a removable, servo-actuated switch presser “robot finger” that presses the light switch for me. It’s cheap, uses parts I already had, and can be removed without damage. I also added a DHT11 temperature and humidity sensor just for fun. It's not exactly pretty but it works!
 
 ![alt text](20250922_013749.jpg)
 
