@@ -53,14 +53,14 @@ If you do splice a USB cable:
 2. Plug the USB end into a power source and use a multimeter to check which is 5 V and which is GND.
 
    * Set the multimeter to 20v
-   * If the meter reads **+5 V**, the wire on the black probe is ground.
+   * If the meter reads **+5 V**, the wire on the black probe is ground and the wire on the red probe is power.
    * If it reads **-5 V**, swap the probes.
 3. Connect these to jumper wires for breadboard use.
     
     * Strip a jumper wire with a male end. Twist the jumper wire copper up with the USB ground copper then wrap with electrical tape to prevent shorts.
     * Do the same for the power wire
     * Obviously, if you have a soldering iron then soldering the wires is an even better solution
-> ⚠️ Never leave exposed wires uninsulated!
+> ⚠️ Never leave exposed wires uninsulated ⚠️
 
 #### Final Connections
 
